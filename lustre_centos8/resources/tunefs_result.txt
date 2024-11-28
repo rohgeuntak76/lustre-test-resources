@@ -1,0 +1,238 @@
+checking for existing Lustre data: not found
+checking for existing Lustre data: not found
+checking for existing Lustre data: not found
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     MGS
+Index:      unassigned
+Lustre FS:  
+Mount type: ldiskfs
+Flags:      0x1004
+              (MGS no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     MGS
+Index:      unassigned
+Lustre FS:  
+Mount type: ldiskfs
+Flags:      0x1004
+              (MGS no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-MDT0000
+Index:      0
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+
+   Permanent disk data:
+Target:     test-MDT0000
+Index:      0
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-MDT0001
+Index:      1
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     test-MDT0001
+Index:      1
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0000
+Index:      0
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0000
+Index:      0
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0001
+Index:      1
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0001
+Index:      1
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+Writing CONFIGS/mountdata
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0002
+Index:      2
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0002
+Index:      2
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+Writing CONFIGS/mountdata
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0003
+Index:      3
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0003
+Index:      3
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+Writing CONFIGS/mountdata
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0004
+Index:      4
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0004
+Index:      4
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.21@tcp:101.73.20.22@tcp
+
+Writing CONFIGS/mountdata
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-OST0005
+Index:      5
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+
+   Permanent disk data:
+Target:     test-OST0005
+Index:      5
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1002
+              (OST no_primnode )
+Persistent mount opts: ,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.21@tcp
+
+Writing CONFIGS/mountdata
+checking for existing Lustre data: found
+
+   Read previous values:
+Target:     test-MDT0002
+Index:      2
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.22@tcp
+
+
+   Permanent disk data:
+Target:     test-MDT0002
+Index:      2
+Lustre FS:  test
+Mount type: ldiskfs
+Flags:      0x1001
+              (MDT no_primnode )
+Persistent mount opts: user_xattr,errors=remount-ro
+Parameters:  mgsnode=101.73.20.21@tcp:101.73.20.22@tcp  failover.node=101.73.20.22@tcp:101.73.20.22@tcp
+

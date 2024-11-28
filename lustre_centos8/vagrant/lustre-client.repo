@@ -1,0 +1,5 @@
+[lustre-client]
+name=lustre client 2.12.6
+baseurl=https://downloads.whamcloud.com/public/lustre/lustre-2.12.6/el7/client/
+enabled=1
+gpgcheck=0

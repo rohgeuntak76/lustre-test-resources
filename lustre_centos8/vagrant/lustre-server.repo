@@ -1,0 +1,13 @@
+[lustre-server]
+name=lustre server 2.15.2
+#baseurl=https://downloads.whamcloud.com/public/lustre/lustre-2.12.6/el7/server/
+baseurl=https://downloads.whamcloud.com/public/lustre/lustre-2.15.2/el8.7/server/
+enabled=1
+gpgcheck=0
+
+[e2fsprogs]
+name=e2fsprogs
+#baseurl=https://downloads.whamcloud.com/public/e2fsprogs/latest/el7/
+baseurl=https://downloads.whamcloud.com/public/e2fsprogs/latest/el8/
+enabled=1
+gpgcheck=0 
